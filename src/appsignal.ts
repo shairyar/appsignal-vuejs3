@@ -3,7 +3,7 @@
 import Appsignal from "@appsignal/javascript";
 
 exports.appsignal = new Appsignal({
-  key: "4c499a2b-ee1f-4e06-82d6-fb4267f9a214",
+  key: "FRONT-END-KEY",
   revision: "abc123",
   uri: "https://appsignal-endpoint.net/collect"
 });
